@@ -2,6 +2,9 @@
 
 #include <QtWidgets/QWidget>
 #include "ui_hept2comma.h"
+#include"./util/util.hpp"
+#include<Windows.h>
+
 
 class Hept2Comma : public QWidget
 {

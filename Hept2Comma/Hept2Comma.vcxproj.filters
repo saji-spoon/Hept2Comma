@@ -67,7 +67,7 @@
     <ClCompile Include="adddialog.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="util\util.c">
+    <ClCompile Include="util\util.cpp">
       <Filter>Util</Filter>
     </ClCompile>
   </ItemGroup>
@@ -95,7 +95,7 @@
     <ClInclude Include="GeneratedFiles\ui_adddialog.h">
       <Filter>Generated Files</Filter>
     </ClInclude>
-    <ClInclude Include="util\util.h">
+    <ClInclude Include="util\util.hpp">
       <Filter>Util</Filter>
     </ClInclude>
   </ItemGroup>
