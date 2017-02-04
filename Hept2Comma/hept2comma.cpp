@@ -12,7 +12,6 @@ void Hept2Comma::on_applyButton_clicked()
 
         std::string heptStr = heptQStr.toStdString();
 
-        //some comment
 }
 
 void Hept2Comma::on_clearButton_clicked()
