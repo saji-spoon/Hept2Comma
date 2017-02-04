@@ -14,9 +14,9 @@ private:
         Ui::Hept2CommaClass ui;
         
 private slots:
-        void on_addButton_clicked();
+        void on_applyButton_clicked();
         
-        void on_addressList_currentItemChanged();
+        void on_clearButton_clicked();
         
 
 
