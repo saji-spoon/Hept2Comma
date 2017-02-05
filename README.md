@@ -1,7 +1,7 @@
 Hept2Comma
 ====
 
-Convert heptadecimal expression (e.g. 0BEEFBAG) to commma-separated expression (e.g 0,11,14,14,15,11,10,16.)  
+Convert heptadecimal expression (e.g. 0BEEFBAG) to comma-separated expression (e.g 0,11,14,14,15,11,10,16.)  
 
 ## Requirement
 ###Build
