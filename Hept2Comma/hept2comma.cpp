@@ -31,4 +31,6 @@ void Hept2Comma::on_applyButton_clicked()
 
 void Hept2Comma::on_clearButton_clicked()
 {
+        ui.heptEdit->clear();
+        ui.commaEdit->clear();
 }
